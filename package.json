@@ -1,0 +1,28 @@
+{
+  "name": "node-html5-file",
+  "version": "0.0.1",
+  "description": "\"html5 file api for node\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/he11b0rn/node-html5-file.git"
+  },
+  "keywords": [
+    "html5",
+    "node",
+    "file",
+    "fileapi"
+  ],
+  "author": "Anisiforov A.M.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/he11b0rn/node-html5-file/issues"
+  },
+  "homepage": "https://github.com/he11b0rn/node-html5-file#readme",
+  "dependencies": {
+    "mime": "^2.2.0"
+  }
+}
