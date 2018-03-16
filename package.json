@@ -16,7 +16,10 @@
     "file",
     "fileapi"
   ],
-  "author": "Anisiforov A.M.",
+  "author": {
+    "name": "he11b0rn",
+    "email": "he11b0rn@hotmail.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/he11b0rn/node-html5-file/issues"
